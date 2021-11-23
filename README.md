@@ -1,2 +1,5 @@
 # KCgitPro
-git right ! git操作
+
+## release 分支
+
+create branch from master
