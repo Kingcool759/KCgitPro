@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(App.getContext(),"hhahha~",Toast.LENGTH_LONG).show();
         // dev_commit-1
         Log.i(TAG, "commit-1");
+        // dev_commit-2
+        Log.i(TAG, "commit-2");
     }
 }
