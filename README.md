@@ -1,4 +1,7 @@
 # KCgitPro
-git right !
 
-## develop 分支
+
+## feature1 功能分支
+
+create branch from develop 分支
+
