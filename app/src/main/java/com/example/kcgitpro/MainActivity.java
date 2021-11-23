@@ -18,5 +18,12 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "commit-1");
         // master_commit
         Log.i(TAG, "master_commit");
+        // dev_commit-2
+        Log.i(TAG, "commit-2");
+        // dev_commit-3
+        Log.i(TAG, "commit-3");
+        // dev_commit-4
+        Log.i(TAG, "commit-4");
+        // release fixed conflict
     }
 }
