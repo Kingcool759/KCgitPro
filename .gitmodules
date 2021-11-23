@@ -1,0 +1,3 @@
+[submodule "KCcommonlibs"]
+	path = KCcommonlibs
+	url = https://github.com/Kingcool759/KCcommonlibs.git
